@@ -58,13 +58,18 @@ border-radius: 10%;
 }
 
 p{font-size: 18px;
-margin-right: 1em;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 color: rgb(255, 255, 255);
 text-align: left;
--webkit-text-stroke: 1px black;  }
+-webkit-text-stroke: 0.5px rgb(0, 0, 0); 
+ }
 
 h2{text-align: center;
-color: rgb(175, 72, 46)}
+color: rgb(255, 82, 82);
+-webkit-text-stroke: 0.5px rgb(0, 0, 0)
+}
 table{margin-top: 5em;}
+
+th li{margin: 0px 17px;}
+
 
