@@ -1,0 +1,53 @@
+header
+{
+    background-image: url(../Imagenes/nav.jpg);
+    height: 200px;
+    width: 1250px;
+}
+body
+{
+    background-image: url(../Imagenes/back.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
+
+header nav ul li
+{
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace
+}
+header nav ul li a
+{
+    padding: 0em 4em 0em 4em;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 18px;
+}
+a
+{
+    text-decoration: none;
+}
+p
+{
+    font-size: 35px;
+}
+h1 
+{
+    text-align: center;
+    font-size:  5em;
+}
+#init
+{
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    width: 40%;
+    margin: auto;
+}
+#red{float: center;
+    width: auto;
+    padding: 4em 6.5em 0em 6.8em;
+     }
