@@ -3,6 +3,7 @@ header
     background-image: url(../Imagenes/nav.jpg);
     height: 200px;
     width: 1250px;
+    border-radius: 70px; 
 }
 body
 {
@@ -10,7 +11,7 @@ body
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 102%;
     color: rgb(255, 255, 255);
     text-align: justify;
 }
@@ -31,11 +32,11 @@ a
 {
     text-decoration: none;
 }
-p
+#initp
 {
-    font-size: 35px;
+    font-size: 40px;
 }
-h1 
+h1
 {
     text-align: center;
     font-size:  5em;
@@ -48,6 +49,22 @@ h1
     margin: auto;
 }
 #red{float: center;
-    width: auto;
     padding: 4em 6.5em 0em 6.8em;
      }
+
+#img{height:30em;
+width:20em;
+border-radius: 10%;
+}
+
+p{font-size: 18px;
+margin-right: 1em;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(255, 255, 255);
+text-align: left;
+-webkit-text-stroke: 1px black;  }
+
+h2{text-align: center;
+color: rgb(175, 72, 46)}
+table{margin-top: 5em;}
+
